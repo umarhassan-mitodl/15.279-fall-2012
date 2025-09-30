@@ -5,6 +5,8 @@ description: 'This resource contains information regarding teaching note: style 
 file: /courses/15-279-management-communication-for-undergraduates-fall-2012/a68fac3aef6942e51831cf6134704077_MIT15_279F12_stylMngrWrtng.pdf
 file_size: 586257
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
