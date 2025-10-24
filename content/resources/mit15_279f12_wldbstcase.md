@@ -5,8 +5,6 @@ description: 'This resource contains information regarding case: media relations
 file: /courses/15-279-management-communication-for-undergraduates-fall-2012/69af0a5b891dae682cfaf1dd6b64bf0b_MIT15_279F12_wldbstCase.pdf
 file_size: 558699
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

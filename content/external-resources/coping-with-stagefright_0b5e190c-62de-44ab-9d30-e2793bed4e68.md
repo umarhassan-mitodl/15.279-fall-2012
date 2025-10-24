@@ -2,8 +2,6 @@
 content_type: external-resource
 external_url: http://hbr.org/product/coping-with-stagefright/an/C9906A-PDF-ENG
 has_external_license_warning: true
-hide_download: true
-hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: broken
 title: Coping with Stagefright

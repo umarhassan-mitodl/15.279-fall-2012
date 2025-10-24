@@ -2,8 +2,6 @@
 content_type: page
 description: This section includes the written assignment descriptions, problem sets,
   and oral presentation assignments for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

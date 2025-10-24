@@ -5,8 +5,6 @@ description: 'This resource contains information regarding teaching note: interc
 file: /courses/15-279-management-communication-for-undergraduates-fall-2012/5510174a6f9820d4cfd53c1e17dbb1ac_MIT15_279F12_intcltrlComm.pdf
 file_size: 639020
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

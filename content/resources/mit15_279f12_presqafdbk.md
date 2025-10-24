@@ -5,8 +5,6 @@ description: 'This resource contains information regarding feedback form: presen
 file: /courses/15-279-management-communication-for-undergraduates-fall-2012/b8899a5a1d9cd516a71f8b1a97be2b52_MIT15_279F12_presQAFdbk.pdf
 file_size: 110175
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -4,8 +4,6 @@ description: ''
 file: /courses/15-279-management-communication-for-undergraduates-fall-2012/c5915f531cbcb4fcd4306aa9c29ff4e0_15-279_insights.png
 file_size: 140035
 file_type: image/png
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
